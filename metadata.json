@@ -1,0 +1,6 @@
+{
+  "name": "CampusFinance Pro",
+  "description": "Master college student budget strategies, cut campus costs, build credit wisely, and grow part-time income with our tactical student financial guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
